@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/PointClassAssigner">
+        <file>icon.png</file>
+    </qresource>
+</RCC>

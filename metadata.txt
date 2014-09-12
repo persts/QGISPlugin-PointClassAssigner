@@ -1,0 +1,13 @@
+[general]
+name=Point Class Assigner
+qgisMinimumVersion=2.4
+description=This is simple plugin to help assign classes from a lookup table to points in a vector layer.
+version=version 1.0
+author=Peter Ersts
+email=ersts@amnh.org
+changelog=2014-09-12 Version 1.0
+tags=vector
+category=vector
+about=This work was supported by Conservation International under grant  #66236, entitled Partnership on research on methods and strategies for monitoring selected non-forest habitats, awarded to the American Museum of Natural History, Center for Biodiversity and Conservation.
+; change icon...
+icon=icon.png

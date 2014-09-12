@@ -1,0 +1,4 @@
+1,forest
+something
+2,non-forest
+3,water
